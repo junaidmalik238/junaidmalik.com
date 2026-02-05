@@ -1,2 +1,2 @@
-# junaidmalik.com
+# junaidmalik
 InPage to Unicode Urdu Text Converter
